@@ -1,6 +1,6 @@
 # nuxt-blog
 
-> My delightful Nuxt.js project
+> SSR Nuxt, Couple of client side plugins / SSR Plugins, Tailwind CSS
 
 ## Build Setup
 
